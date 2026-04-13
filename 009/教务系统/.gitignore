@@ -1,0 +1,22 @@
+# 学生数据文件夹（最重要！）
+Student_data/
+students.json
+*.json
+
+# Python缓存
+__pycache__/
+*.pyc
+
+# 虚拟环境
+venv/
+env/
+
+# IDE配置
+.vscode/
+.idea/
+.DS_Store
+
+# 临时文件
+*.log
+*.tmp
+*.bak
