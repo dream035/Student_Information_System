@@ -29,6 +29,7 @@ while True:
             case 5:
                 e1.show_all_student()
             case 6:
+                e1.save_data()#退出保存
                 print("已退出系统，欢迎下次使用！")
                 break
             case _:
